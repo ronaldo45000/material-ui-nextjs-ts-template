@@ -15,9 +15,11 @@
     "@mui/icons-material": "latest",
     "@mui/material": "latest",
     "@mui/material-nextjs": "latest",
+    "@mui/types": "^7.2.14",
     "next": "latest",
     "react": "latest",
-    "react-dom": "latest"
+    "react-dom": "latest",
+    "zod": "^3.23.8"
   },
   "devDependencies": {
     "@types/node": "latest",
